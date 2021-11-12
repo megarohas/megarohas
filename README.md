@@ -15,6 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alex-galkin-80632817b/)
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/megarohas)
+[![YouTube](https://img.shields.io/badge/-YouTube-282c34?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UC8kX3DL35WeanGnWr-ckSWw)
+
 ##### or
 #####  ✉️  Mail me: rohas.wtf@gmail.com
 
