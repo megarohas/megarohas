@@ -12,14 +12,11 @@
 - 💬 Ping me about **frontend**, **Vue**, **React**, **JavaScript**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-##### Device tweaks
+##### Check these out
 
-Audits and careful cleanups with rollback, all documented:
-[Mac](https://github.com/megarohas/megarohas_mac_tweaks) ·
-[macOS janitor](https://github.com/megarohas/macos_janitor) ·
-[Windows 11](https://github.com/megarohas/megarohas_windows_tweaks) ·
-[Xiaomi TV Box](https://github.com/megarohas/megarohas_android_tv_tweaks) ·
-[Galaxy Tab S6 Lite](https://github.com/megarohas/megarohas_galaxy_tab_tweaks)
+- 📺 [Mega TV Launcher](https://github.com/megarohas/megarohas_tv_launcher): a clean Apple TV-style home screen for Android TV and Google TV. No root, no Leanback, no bloat
+- 🎥 [multichat](https://github.com/megarohas/megarohas_multichat): Twitch + YouTube chats merged into one OBS overlay. Runs locally with no API keys, no third-party services and zero dependencies
+- 🎮 [Deus Ex: HR Director's Cut fix](https://github.com/megarohas/deus-ex-hrdc-stutter-scaling-fix): an ASI plugin that removes the periodic 30–60 s stutter and lets the HUD scale properly at 1080p, 1440p and 4K
 
 ##### You can find me there
 
