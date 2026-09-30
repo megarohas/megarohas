@@ -5,11 +5,21 @@
 ##### BIO
 
 - 🏢 Currently working at [Softenq](https://softenq.com/)
-- ⚙️ I use daily: `.jsx`, `.js`, `.rb`
-- 🦄 I'm mostly active within the [dev_unicorn](https://www.youtube.com/channel/UC8kX3DL35WeanGnWr-ckSWw)
-- 🌱 Learning all about **JS**
-- 💬 Ping me about **development**, **java script**, **react**, **redux**
+- 🚀 Since 2021 my main project is [The Hub](https://thehub.io/), a platform for jobs in Nordic startups
+- ⚙️ I use daily: **Vue**, **JavaScript**, **Node.js**, **SCSS**
+- 🛠 After hours I build small tools and tweaks with **Swift** (macOS), **Kotlin** / **Java** (Android), **Node.js**, **C** and shell scripts
+- 🦄 I also run a YouTube channel about web development: [dev_unicorn](https://www.youtube.com/channel/UC8kX3DL35WeanGnWr-ckSWw)
+- 💬 Ping me about **frontend**, **Vue**, **React**, **JavaScript**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
+
+##### Device tweaks
+
+Audits and careful cleanups with rollback, all documented:
+[Mac](https://github.com/megarohas/megarohas_mac_tweaks) ·
+[macOS janitor](https://github.com/megarohas/macos_janitor) ·
+[Windows 11](https://github.com/megarohas/megarohas_windows_tweaks) ·
+[Xiaomi TV Box](https://github.com/megarohas/megarohas_android_tv_tweaks) ·
+[Galaxy Tab S6 Lite](https://github.com/megarohas/megarohas_galaxy_tab_tweaks)
 
 ##### You can find me there
 
@@ -19,5 +29,3 @@
 
 ##### or
 #####  ✉️  Mail me: megarohas@gmail.com
-
-
