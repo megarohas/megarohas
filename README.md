@@ -14,7 +14,12 @@
 
 ##### Check these out
 
+- 🍎 [Apple Music for Android TV](https://github.com/megarohas/apple-music-android-tv): an unofficial Apple Music app for Android TV and Google TV. A remote-friendly interface over Apple's official web player
+- 🏒 [NHL Legacy Remaster](https://github.com/megarohas/nhl-legacy-remaster): a native PC port of NHL Legacy Edition (Xbox 360) via static recompilation, with 32 teams, 2026/27 rosters and current logos
+- 📚 [Audiobinder](https://github.com/megarohas/megarohas_audiobinder): an M4B audiobook builder for macOS and Windows with metadata, cover art, chapters and chapter images
+- 🖼 [WebPress](https://github.com/megarohas/megarohas_webpress): drag & drop any image and get a maximally compressed WebP. Native macOS app, CLI and Finder Quick Action
 - 📺 [Mega TV Launcher](https://github.com/megarohas/megarohas_tv_launcher): a clean Apple TV-style home screen for Android TV and Google TV. No root, no Leanback, no bloat
+- 🎙 [Пульт](https://github.com/megarohas/megarohas_tv_voice): an offline voice remote for Android TV. An old Android tablet by the TV hears your commands and drives the box over Wi-Fi
 - 🎥 [multichat](https://github.com/megarohas/megarohas_multichat): Twitch + YouTube chats merged into one OBS overlay. Runs locally with no API keys, no third-party services and zero dependencies
 - 🎮 [Deus Ex: HR Director's Cut fix](https://github.com/megarohas/deus-ex-hrdc-stutter-scaling-fix): an ASI plugin that removes the periodic 30–60 s stutter and lets the HUD scale properly at 1080p, 1440p and 4K
 
